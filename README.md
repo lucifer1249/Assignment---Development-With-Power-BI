@@ -11,3 +11,4 @@ d) Create a map visual of Revenue by the origin city
 e) Create a column chart of Trip ID
 f) Create a funnel chart of Trip ID by the destination state (use different colors to represent each)
 g) Save the report
+
